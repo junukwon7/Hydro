@@ -4,7 +4,7 @@
     "version": "2.1.25",
     "main": "package.json",
     "author": "masnn",
-    "repository": "https://github.com/hydro-dev/Hydro.git",
+    "repository": "https://github.com/junukwon7/Hydro.git",
     "dependencies": {
         "adm-zip": "^0.4.16",
         "axios": "^0.21.0",

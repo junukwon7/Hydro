@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Import QDUOJ problem export",
     "main": "package.json",
-    "repository": "https://github.com/hydro-dev/Hydro.git",
+    "repository": "https://github.com/junukwon7/Hydro.git",
     "author": "undefined <i@undefined.moe>",
     "license": "AGPL-3.0-only",
     "dependencies": {
