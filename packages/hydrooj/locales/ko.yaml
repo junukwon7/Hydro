@@ -237,16 +237,18 @@ Domain {0} not found.: 그룹 {0} 없음
 Domain ID cannot be changed once the domain is created.: 그룹 ID는 수정할 수 없습니다.
 Domain ID: 그룹 ID
 Domain Settings: 그룹 설정
-domain_dashboard: 그룹 게시판
-domain_discussion: 그룹 토론
-domain_edit: 그룹 수정
-domain_join: 그룹 참가
-domain_main: 그룹
-domain_permission: 그룹 권한
-domain_role: 그룹 역할
-domain_user: 그룹 구성원
-domain_join_applications: 그룹 참여 요청
+domain_manage_dashboard: 그룹 게시판
+domain_manage_discussion: 그룹 토론
+domain_manage_edit: 그룹 수정
+domain_manage_join: 그룹 참가
+domain_manage_main: 그룹
+domain_manage_permission: 그룹 권한
+domain_manage_role: 그룹 역할
+domain_manage_user: 그룹 구성원
+domain_manage_join_applications: 그룹 참여 요청
 domain: 그룹
+domain_main: KOISTUDY
+domain_manage: 그룹
 Domain: 그룹
 Don't have an account?: 계정이 없으신가요?
 Done: 완료
@@ -548,6 +550,7 @@ Quit Scratchpad: Editor 닫기
 Quote: 문구
 Rank: 순위
 ranking: 순위
+ranking_main: 순위
 Read data of own problems: 자신의 문제 데이터 읽기
 Read data of problem: 문제 데이터 읽기
 Read record codes: 점수 읽기
@@ -582,7 +585,7 @@ Reply problem solutions: 댓글 등록
 reply: 댓글
 Reply: 댓글
 Report: 신고
-required: 요구된
+required: 필수
 Reset Password or Find Username: 비밀번호 재설정 또는 ID 찾기
 Reset Password: 비밀번호 재설정
 Reset: 재설정
@@ -630,8 +633,8 @@ setting_customize: 개인 설정
 setting_display: 표시 설정
 setting_domain: 그룹 설정
 setting_info_domain: 그룹 정보 설정
-setting_info: 정보 설정
-setting_privacy: 개인정보 설정
+setting_info: 개인정보 설정
+setting_privacy: 공개 설정
 setting_usage: 언어 설정
 Settings: 설정
 Share: 공유
@@ -704,7 +707,7 @@ Time (Seconds): 시간 (s)
 Time Cost: 시간
 Time Extension: 시간 연장
 Time: 시간
-timeago_locale: ko_KR
+timeago_locale: ko
 Timezone: Seoul
 title: 제목
 Title: 제목
