@@ -4,7 +4,7 @@
     "bin": "bin/hydrooj.js",
     "main": "dist/loader.js",
     "typings": "dist/loader.d.ts",
-    "repository": "https://github.com/junukwon7/Hydro.git",
+    "repository": "https://github.com/hydro-dev/Hydro.git",
     "author": "masnn",
     "license": "AGPL-3.0-only",
     "engines": {

@@ -2,7 +2,7 @@
     "name": "@hydrooj/migrate-hustoj",
     "version": "0.0.1",
     "main": "package.json",
-    "repository": "git@github.com:junukwon7/Hydro.git",
+    "repository": "git@github.com:hydro-dev/Hydro.git",
     "author": "undefined <masnn0@outlook.com>",
     "license": "MIT",
     "scripts": {

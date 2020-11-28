@@ -3,7 +3,7 @@
     "version": "1.0.2",
     "description": "Enhance Problem Search",
     "main": "package.json",
-    "repository": "https://github.com/junukwon7/Hydro.git",
+    "repository": "https://github.com/hydro-dev/Hydro.git",
     "author": "undefined <masnn0@outlook.com>",
     "license": "AGPL-3.0-only",
     "dependencies": {
