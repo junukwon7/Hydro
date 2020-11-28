@@ -229,6 +229,7 @@ Discussions: 토론
 Display name {1} you want to set is used by others.: 이름 {1}이(가) 공개됩니다
 Display Name: 이름
 display_name: 이름
+display name:  이름
 Do not discuss solutions otherwise you will be regarded as cheating and then lose qualifications.: 풀이에 대해 토론할 경우 불이익을 받을 수 있습니다.
 Document {2} not found.: 문서 {2} 없음
 Domain {0} already exists.: 그룹 {0} 이미 존재
@@ -237,18 +238,21 @@ Domain {0} not found.: 그룹 {0} 없음
 Domain ID cannot be changed once the domain is created.: 그룹 ID는 수정할 수 없습니다.
 Domain ID: 그룹 ID
 Domain Settings: 그룹 설정
-domain_manage_dashboard: 그룹 게시판
-domain_manage_discussion: 그룹 토론
-domain_manage_edit: 그룹 수정
-domain_manage_join: 그룹 참가
-domain_manage_main: 그룹
-domain_manage_permission: 그룹 권한
-domain_manage_role: 그룹 역할
-domain_manage_user: 그룹 구성원
-domain_manage_join_applications: 그룹 참여 요청
+domain_dashboard: 그룹 게시판
+domain_discussion: 그룹 토론
+domain_edit: 그룹 수정
+domain_join: 그룹 참가
+domain_main: 그룹
+domain_permission: 그룹 권한
+domain_role: 그룹 역할
+domain_user: 그룹 구성원
+domain_join_applications: 그룹 참여 요청
+<<<<<<< Updated upstream
+=======
 domain: 그룹
-domain_main: KOISTUDY
-domain_manage: 그룹
+domain_main: 홈
+>>>>>>> Stashed changes
+domain: 그룹
 Domain: 그룹
 Don't have an account?: 계정이 없으신가요?
 Done: 완료
@@ -405,7 +409,7 @@ Logout All Sessions: 모든 세션에서 로그아웃
 Logout This Session: 이 세션에서 로그아웃
 Logout: 로그아웃
 Lost Password: 비밀번호 분실
-Lucky: 운이 좋네요!
+Lucky: 랜덤 추천
 manage_dashboard: 대시보드 관리
 manage_join_applications: 참여 요청 관리
 manage_module: 모듈 관리
@@ -463,7 +467,7 @@ Numeric PID: 문제 번호
 Oh, the user doesn't have any contributions!: 아직 기여가 없습니다.
 Oh, the user hasn't created any discussions yet!: 아직 토론을 시작하지 않았습니다.
 Oh, the user hasn't submitted yet!: 아직 제출하지 않았습니다 _(:зゝ∠)
-Oh, there is no task in the queue!: 대기열에 작업이 없습니다.
+Oh, there is no task in the queue!: 대기열이 비었습니다.
 Oh, there is no task that matches the filter!: 결과 없음
 Ok: OK
 Only A-Z, a-z, 0-9 and _ are accepted: A-Z, a-z, 0-9 와 _만 허용됨
@@ -483,6 +487,7 @@ OS Info: 시스템 정보
 Owner: 소유자
 page.problem_detail.sidebar.show_category: 분류 표시
 page.training_detail.invalid_when_not_enrolled: 학습에 참여하지 않았습니다.
+pager_next: 페이지
 Params: 파라미터
 Partic.: 참여자
 Password reset mail has been sent to your email.: 비밀번호 재설정 이메일 발신 완료
@@ -550,7 +555,6 @@ Quit Scratchpad: Editor 닫기
 Quote: 문구
 Rank: 순위
 ranking: 순위
-ranking_main: 순위
 Read data of own problems: 자신의 문제 데이터 읽기
 Read data of problem: 문제 데이터 읽기
 Read record codes: 점수 읽기
@@ -585,7 +589,7 @@ Reply problem solutions: 댓글 등록
 reply: 댓글
 Reply: 댓글
 Report: 신고
-required: 필수
+required: 요구된
 Reset Password or Find Username: 비밀번호 재설정 또는 ID 찾기
 Reset Password: 비밀번호 재설정
 Reset: 재설정
@@ -633,16 +637,16 @@ setting_customize: 개인 설정
 setting_display: 표시 설정
 setting_domain: 그룹 설정
 setting_info_domain: 그룹 정보 설정
-setting_info: 개인정보 설정
-setting_privacy: 공개 설정
+setting_info: 정보 설정
+setting_privacy: 개인정보 설정
 setting_usage: 언어 설정
 Settings: 설정
 Share: 공유
 Show all tags: 모든 분류 보이기
 Show MOD badge: MOD 배지 보이기
 Show: 보이기
-Sign In: 로그인
-SIGN IN: 로그인
+Sign In: 회원가입
+SIGN IN: 회원가입
 Sign up mail has been sent to your email.: 회원가입 이메일을 보냈습니다.
 Sign Up Now: 회원가입
 Sign Up: 회원가입
@@ -708,7 +712,7 @@ Time Cost: 시간
 Time Extension: 시간 연장
 Time: 시간
 timeago_locale: ko
-Timezone: Seoul
+Timezone: Timezone
 title: 제목
 Title: 제목
 Toggle Pretest Panel: 프리테스트
